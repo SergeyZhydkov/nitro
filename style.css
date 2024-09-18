@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(232, 232, 208);
+}
+.title {
+  font-size: 30px;
+  color: blue;
+  align-items: center;
+  margin-left: 470px;
+}
+.list-css {
+}
+.img-css {
+  width: 300px;
+}
+.user-container {
+  background-color: coral;
+  margin-top: 30px;
+  display: flexbox;
+}
+.title-user {
+}

@@ -1,0 +1,15 @@
+{
+  "name": "nitro",
+  "version": "1.0.0",
+  "description": "NPM basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://sergeyzhydkov.github.io/nitro"
+  },
+  "author": "Sergey Zhydkov <sergey_vip@yahoo.com>",
+  "license": "ISC"
+}
