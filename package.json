@@ -1,15 +1,16 @@
 {
   "name": "nitro",
   "version": "1.0.0",
-  "description": "NPM basics",
+  "description": "<!-- Тренировка по установке npm -->",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://sergeyzhydkov.github.io/nitro"
-  },
-  "author": "Sergey Zhydkov <sergey_vip@yahoo.com>",
-  "license": "ISC"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "joi": "^17.13.3"
+  }
 }
